@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt: "Home page"
+  image: little_houses.jpg
+
+- title: About
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll"
+  image: coffee_and_chocolate.jpg
+
+- title: Resume
+  url: /resume/cv.pdf
+  excerpt: "My resume"
+  image: resume_glasses.jpg
